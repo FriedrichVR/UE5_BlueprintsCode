@@ -1,3 +1,4 @@
+@@ -0,0 +1,50 @@
 Begin Object Class=/Script/BlueprintGraph.K2Node_InputKey Name="K2Node_InputKey_7" ExportPath=/Script/BlueprintGraph.K2Node_InputKey'"/Game/Maps/RutasDeMantenimiento_V1.RutasDeMantenimiento_V1:PersistentLevel.RutasDeMantenimiento_V1.EventGraph.K2Node_InputKey_7"'
 InputKey=R
 bShift=True
